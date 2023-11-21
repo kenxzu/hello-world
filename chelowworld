@@ -4,6 +4,7 @@ int main(){
 
 
 printf("hellow world")
+printf("ken Foster Morintoh") 
 
 return 0;
 }
